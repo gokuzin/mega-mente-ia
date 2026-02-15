@@ -1,0 +1,8 @@
+{
+  "name": "Mega Mente AI",
+  "description": "Uma interface de inteligência artificial avançada com design moderno em tons de cinza escuro e azul marinho, alimentada pelo modelo Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
